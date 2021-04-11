@@ -1,0 +1,3 @@
+Hello,
+I am learning to use git, github and vim today.
+
